@@ -1,4 +1,4 @@
-# App
+
 # EXTRACTION D'INFORMATION 
 ## Traitement des langages avec Python, Unitex et Gramlab
     Projet réalisé au 1er semestre de la 3ème année informatique générale (ACAD) à l'Université des Sciences et de la Technologie Houari Boumediene, pour le module "Unitex/Gramlab et Python".
