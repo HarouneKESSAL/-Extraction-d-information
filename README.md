@@ -17,17 +17,17 @@
 ## Installation
 
 ### Clone the repository:
-Copy code :
+
 `git clone https://github.com/HarouneKESSAL/App`
 
 ### Install the necessary packages:
-Copy code
+
 `pip install -r requirements.txt`
 
 ### Usage :
 ### The project can be run by executing the following command:
 
-Copy code
+
 ```python
     python extraire.py A-Z 80
     python enrichir.py corpus-medical.txt
