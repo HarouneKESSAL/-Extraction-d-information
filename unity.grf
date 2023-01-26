@@ -1,0 +1,33 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+13
+"<E>" 55 217 11 2 3 4 5 6 7 8 9 10 11 12 
+"" 601 219 0 
+":grammage" 230 82 1 1 
+":littrage" 238 127 1 1 
+":journee" 240 181 1 1 
+":comp" 245 228 1 1 
+":injecté" 237 280 1 1 
+":ampoule" 231 342 1 1 
+":time" 208 530 1 1 
+":sac" 228 400 1 1 
+":molage" 214 455 1 1 
+":autre" 202 656 1 1 
+":goutage" 197 578 1 1 

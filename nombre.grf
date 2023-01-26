@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 70 200 4 2 3 4 5 
+"" 420 194 0 
+"<NB>" 264 47 1 1 
+"un+une+deux+trois+quatre+cinq+six+sept+huit+neuf+dix" 259 175 1 1 
+"½+¾+¼" 277 319 1 1 
+"1\/2" 263 378 1 1 

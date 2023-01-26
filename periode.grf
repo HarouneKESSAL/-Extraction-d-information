@@ -1,0 +1,53 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+33
+"<E>" 44 207 15 4 5 8 13 1 16 17 19 22 25 26 27 30 31 32 
+"" 586 259 0 
+"midi" 331 52 2 1 18 
+"soir" 248 126 2 1 18 
+"jour" 246 240 1 1 
+"J<NB>" 191 290 1 6 
+"à" 263 275 2 7 14 
+"J<NB>" 393 283 1 1 
+"pendant+pdt" 174 375 1 11 
+":nombre" 392 395 1 10 
+":unity" 691 391 1 1 
+"encore+<E>" 274 377 1 9 
+"coucher" 328 333 1 1 
+"au" 207 336 1 12 
+":nombre" 521 318 1 10 
+"matin" 285 191 2 1 18 
+"le+ce+<E>" 110 95 4 2 3 15 29 
+":nombre" 153 249 1 6 
+"et+–+," 385 143 4 2 3 15 28 
+"jusqu'au" 161 517 1 20 
+":nombre" 337 464 1 21 
+":mois" 525 485 1 1 
+"à" 147 583 2 23 24 
+"<NB>" 318 577 2 10 1 
+"J" 334 662 1 23 
+"avan les pansements" 167 563 1 1 
+"si besoin+si douleur+les jours de dialyse+avant les pansements" 134 188 2 16 1 
+"sous-cutané+sous cutané" 170 446 1 1 
+":nombre" 508 133 2 29 16 
+":unity" 604 96 1 16 
+"au retour du bloc" 131 760 1 1 
+"en" 23 359 1 27 
+"toutes les" 22 486 2 14 10 
